@@ -1,2 +1,2 @@
-# Cryptocurrency
-Cryptocurrency is a test subject
+# Cryptocurrencytest
+Cryptocurrencytest is a test subject
